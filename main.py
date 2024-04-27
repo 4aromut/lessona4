@@ -11,5 +11,7 @@ elif b > a:
 else:
     print("а равно б")
 a = 5
+b = 9
+
 
 
