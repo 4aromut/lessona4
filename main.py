@@ -10,4 +10,6 @@ elif b > a:
     print(" б больше чем а")
 else:
     print("а равно б")
+a = 5
+
 
